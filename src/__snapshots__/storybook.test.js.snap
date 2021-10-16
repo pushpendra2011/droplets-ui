@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Button Default 1`] = `
+<button
+  style={null}
+>
+  My Button
+</button>
+`;
+
+exports[`Storyshots Components/Button Primary 1`] = `
+<button
+  style={
+    Object {
+      "backgroundColor": "red",
+    }
+  }
+>
+  primary
+</button>
+`;
